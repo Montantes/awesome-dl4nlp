@@ -131,6 +131,7 @@ Papers
 1. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
 1. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) - State-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
 1. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) - State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach.
+1. [Attention is All You Need] (https://arxiv.org/abs/1706.03762) The first paper/implementation on the transformer architecture.
 
 Blog Posts
 ----
