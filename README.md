@@ -162,7 +162,7 @@ Datasets
 	1. [DeepMind's from CNN & DailyMail Question Answering](https://github.com/deepmind/rc-data)
 	1. [Microsoft's WikiQA Open Domain Question Answering](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)
 	1. [Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) - covering reading comprehension
-
+	1. [RACE: Large-scale ReAding Comprehension Dataset From Examination](https://www.cs.cmu.edu/~glai1/data/race/) - Race is a large-scale reading comprehension dataset with more than 28,000 passages and nearly 100,000 questions. 
 Word Embeddings and friends
 ----
 1. [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/) from The Morning Paper blog
