@@ -30,6 +30,8 @@ Courses
 	- [Course lectures](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) Video playlist.
 	- [Previous course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
 	- [Course code](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n.
+1. CS224U Natural Language Understanding, Stanford University 2019  
+	- [Course homepage](https://web.stanford.edu/class/cs224u/)
 1. Neural Networks for NLP from Carnegie Mellon University
 	- [Course homepage](http://phontron.com/class/nn4nlp2017/)
 	- [Course lectures](https://www.youtube.com/user/neubig/videos)
