@@ -159,6 +159,9 @@ Datasets
 1. [Chatbot data from Kaggle](https://www.kaggle.com/samdeeplearning/deepnlp)
 1. [A list of text datasets that are free/public domain in alphabetical order](https://github.com/niderhoff/nlp-datasets)
 1. [Another list of text datasets that are free/public domain in reverse chronological order](https://github.com/karthikncode/nlp-datasets)
+1. [Taskmaster](https://github.com/google-research-datasets/Taskmaster) - The Taskmaster corpus consists of TWO datasets, Taskmaster-1 (TM-1) and Taskmaster-2 (TM-2), comprising over 30,000 spoken and written task-oriented dialogs.
+1. [CCPE-M dataset](https://storage.googleapis.com/dialog-data-corpus/CCPE-M-2019/landing_page.html) - The CCPE-M dialog dataset consists of 502 English dialogs with 11,972 annotated utterances between a user and a Wizard-of-Oz assistant discussing movie preferences in natural language.
+
 1. Question Answering datasets
 	1. [Quora's Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
 	1. [CMU's Wikipedia Factoid Question Answers](https://www.cs.cmu.edu/~ark/QA-data/)
