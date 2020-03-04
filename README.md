@@ -21,7 +21,7 @@ Benchmarks
 1. [NVIDIA Quadro RTX 8000 BERT Large Fine Tuning Benchmarks in TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-8000-bert-large-fine-tuning-benchmarks-in-tensorflow/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-brianspiering-awesome-dl4nlp)
 2. [NVIDIA Quadro RTX 6000 BERT Large Fine Tuning Benchmarks in TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-6000-bert-large-fine-tune-benchmarks-with-squad-dataset/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-brianspiering-awesome-dl4nlp)
 3. [Multiple Benchmarks for NLP from Huggingface](https://docs.google.com/spreadsheets/d/1538MN224EzjbRL239sqSiUy6YY-rAjHyXhTzz_Zptls/edit#gid=960868445)
-4.[Transformer Benchmarks multiple models](https://docs.google.com/spreadsheets/d/1sryqufw2D0XlUH4sq3e9Wnxu5EAQkaohzrJbd5HdQ_w/edit#gid=0)
+4. [Transformer Benchmarks multiple models](https://docs.google.com/spreadsheets/d/1sryqufw2D0XlUH4sq3e9Wnxu5EAQkaohzrJbd5HdQ_w/edit#gid=0)
 
 Courses
 ----
@@ -190,6 +190,8 @@ Word Embeddings and friends
 1. Skip-Thought Vectors - "unsupervised learning of a generic, distributed sentence encoder"
     - [Paper](http://arxiv.org/abs/1506.06726)
     - [Code](https://github.com/ryankiros/skip-thoughts)
+1. [PG-19 Language Modelling Benchmark from DeepMind](https://github.com/deepmind/pg19) PG-19 is over double the size of the Billion Word benchmark and contains documents that are 20X longer, on average, than the WikiText long-range language modelling benchmark.
+
 
 -----
 Contributing
